@@ -19,7 +19,7 @@ Countries covered:
 - Sierra Leone
 - Togo
 
-The data come from [world states men](//www.worldstatesmen.org/) website. Each script shows how the data has been processed for each country. There are four main variables in the dataframe obtained at the end of the datawrangling step:
+The data come from [world states men](http://www.worldstatesmen.org/) website. Each script shows how the data has been processed for each country. There are four main variables in the dataframe obtained at the end of the datawrangling step:
 
 - country: the country name
 - start_day / end_day: resp. the start and end day of each president
