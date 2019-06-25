@@ -19,7 +19,7 @@ Countries covered:
 - Sierra Leone
 - Togo
 
-The data come from [world states men](http://www.worldstatesmen.org/) website. 
+The data comes from [world states men](http://www.worldstatesmen.org/) website. 
 Each script shows how the data has been processed for each country. 
 Here are the main variables in the dataframe obtained at the end of the datawrangling step:
 
