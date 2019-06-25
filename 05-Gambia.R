@@ -29,5 +29,5 @@ country_data <- country_data %>%
            sep = "\\s") %>%
   dplyr::select(-presidents)
 
-write.csv(country_data, file = "output_data/Cote_dIvoire.csv",
+write.csv(country_data, file = "output_data/Gambia.csv",
           row.names = FALSE)

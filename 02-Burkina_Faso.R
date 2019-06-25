@@ -34,8 +34,6 @@ country_data <- country_data %>%
   mutate(provisional = grepl("provisional", presidents, ignore.case = TRUE)) %>%
   mutate(military = grepl("mil", presidents, ignore.case = TRUE)) %>%
   dplyr::filter(!is.na(transition_step)) %>%
-  mutate(provisional = as.numeric(provisional), military = as.numeric(military)) %>%
-  mutate(provisional = ifelse(grepl("Jean-Baptiste", presidents), 2, provisional)) %>%
   mutate(president_name = str_remove(transition_step, regex_period),
          president_name = str_squish(president_name),
          president_name = str_extract(president_name, "^[-A-z ]+"),

@@ -1,0 +1,5 @@
+"country","start_day","start_month","start_year","end_day","end_month","end_year","provisional","military","president_name"
+"Gambia","24","Apr","1970","22","Jul","1994",FALSE,FALSE,"Sir Dawda Kairaba Jawara"
+"Gambia","30","Jul","1981","5","Aug","1981",FALSE,TRUE,"Kukoi Samba Sanyang"
+"Gambia","22","Jul","1994","21","Jan","2017",FALSE,TRUE,"Yahya Abdul-Azziz Jemus Junkung"
+"Gambia","19","Jan","2017",NA,NA,NA,FALSE,FALSE,"Adama Barrow"
