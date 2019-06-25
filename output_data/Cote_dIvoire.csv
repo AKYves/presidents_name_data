@@ -1,0 +1,6 @@
+"country","start_day","start_month","start_year","end_day","end_month","end_year","provisional","military","president_name"
+"Côte d'Ivoire","7","Dec","1960","7","Dec","1993",FALSE,FALSE,"Felix Houphouet-Boigny"
+"Côte d'Ivoire","7","Dec","1993","24","Dec","1999",FALSE,FALSE,"Aime Henri Konan Bedie"
+"Côte d'Ivoire","25","Dec","1999","26","Oct","2000",FALSE,TRUE,"Robert Guei"
+"Côte d'Ivoire","26","Oct","2000","11","Apr","2011",FALSE,FALSE,"Laurent Koudou Gbagbo"
+"Côte d'Ivoire","4","Dec","2010",NA,NA,NA,FALSE,FALSE,"Alassane Dramane Ouattara"

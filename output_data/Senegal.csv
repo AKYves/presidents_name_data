@@ -1,0 +1,5 @@
+"country","start_day","start_month","start_year","end_day","end_month","end_year","provisional","military","president_name"
+"Senegal","5","Sep","1960","31","Dec","1980",FALSE,FALSE,"Leopold Sedar Senghor"
+"Senegal","1","Jan","1981","1","Apr","2000",FALSE,FALSE,"Abdou Diouf"
+"Senegal","1","Apr","2000","2","Apr","2012",FALSE,FALSE,"Abdoulaye Wade"
+"Senegal","2","Apr","2012",NA,NA,NA,FALSE,FALSE,"Macky Sall"

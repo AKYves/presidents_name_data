@@ -1,0 +1,8 @@
+"country","start_day","start_month","start_year","end_day","end_month","end_year","provisional","military","president_name"
+"Guinea","2","Oct","1958","26","Mar","1984",FALSE,FALSE,"Ahmed Sekou Toure"
+"Guinea","27","Mar","1984","3","Apr","1984",FALSE,FALSE,"Louis Lansana Beavogui"
+"Guinea","3","Apr","1984","22","Dec","2008",FALSE,TRUE,"Lansana Conte"
+"Guinea","22","Dec","2008","23","Dec","2008",FALSE,FALSE,"Aboubacar Sompare"
+"Guinea","23","Dec","2008","21","Dec","2010",FALSE,TRUE,"Moussa Dadis Camara"
+"Guinea","5","Dec","2009","21","Dec","2010",FALSE,TRUE,"Sekouba Konate"
+"Guinea","21","Dec","2010",NA,NA,NA,FALSE,FALSE,"Alpha Conde"
